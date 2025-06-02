@@ -10,3 +10,9 @@
 .Answer {
     margin-top: 5%;
 }
+.col {
+    margin-left: 0;
+}
+.row {
+    display: block;
+}
